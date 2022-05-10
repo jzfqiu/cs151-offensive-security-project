@@ -12,8 +12,8 @@ The project contains the following functional modules:
 
 - `Client`: client to be implanted on the target's machine.
 - `Server`: command and control infrastructure consisting of a server and a command line interface (Cli)
-- `Upload`, `Download`: test modules for file transmission between client and server
 - `Base64`, `MD5`, `RC4`: cryptography modules
+- `sRDI-Modules`: modulary components to expand on the client's capabilites.
 
 ## Project Setup
 

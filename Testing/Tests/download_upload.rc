@@ -1,0 +1,5 @@
+download 5MB.zip
+download 100MB.zip
+upload 5MB.zip 5MB-new.zip
+upload 100MB.zip 100MB-new.zip
+

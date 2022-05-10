@@ -1,0 +1,28 @@
+whoami
+pwd
+cd Client
+cd ..
+ps
+whoami
+pwd
+cd Client
+cd ..
+ps
+whoami
+pwd
+cd Client
+cd ..
+ps
+whoami
+pwd
+cd Client
+cd ..
+ps
+whoami
+pwd
+cd Client
+cd ..
+ps
+shell "cmd.exe /c ipconfig /all"
+shell "cmd.exe /c whoami /groups"
+shell calc.exe

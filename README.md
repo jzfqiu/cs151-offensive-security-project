@@ -1,5 +1,7 @@
 # CS151 Final Project
 
+**Per the instructor's request, this repository does not contain any code.** 
+
 Course description: https://www.cs.tufts.edu/t/courses/description/spring2022/CS/151-01
 
 Using [sRDI (Shellcode Reflective DLL Injection)](https://github.com/monoxgas/sRDI), the client is able to download additional component to adjust its own privileges or run command in higher integrity.

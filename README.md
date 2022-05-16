@@ -87,10 +87,6 @@ The project contains the following functional modules:
 
 ### Privilege Escalation
 
-```
-whoami /groups | findstr Level
-```
-
 - `listprivs`: list the privileges of the current process  
 - `setpriv`: enable or disable a privilege of the current process
 - `bypassuac`: from medium integrity, run a command in high integrity without prompting user account control.

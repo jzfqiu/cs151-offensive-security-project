@@ -4,7 +4,7 @@ Cumulative project for [CS 151-01 Offensive Security](https://www.cs.tufts.edu/t
 
 CS151 was designed and taught by [Joshua Abraham](https://spl0it.wordpress.com/about/).
 
-**Per the instructor's request, the public repository of the project does not contain any code.** But here's what it looks like if it does.
+**Per the instructor's request, the public repository of the project does not contain any code.** But here's what it would look like if it does.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/42147547/168630744-35f9398b-fcd2-4718-97b1-3c21161a27ac.png">
 
